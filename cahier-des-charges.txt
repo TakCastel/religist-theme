@@ -1,0 +1,31 @@
+CAHIER DES CHARGES DU CLIENT
+============================
+
+Identification
+——————————————
+Le client est un journaliste indépendant
+
+Localisation
+——————————————
+Son entreprise est située sur Avignon
+
+Recherche
+——————————————
+L'objectif du client est de réaliser un site web sur le thème de son sujet
+
+Projet
+——————————————
+Le client souhaite réaliser un blog et voudrait un premier aperçu web de son site
+
+Attentes
+——————————————
+On attendra de nous un thème respectant les idées de son sujet : religion, modernité, actualité
+
+Attention à bien respecter les codes couleur :
+#ffffff white
+#979797 interm grey
+#c3bcab grey
+#76c38f green
+#2b2b2b darker
+
+Idem pour la typo 3 maximum
